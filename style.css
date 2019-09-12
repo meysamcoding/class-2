@@ -1,0 +1,53 @@
+body{
+	display: block;
+	border-right:2px solid aqua;
+	border-left:2px solid aqua;
+}
+
+h1{
+	background-color: black;
+	color: white;
+	text-align:center;
+	border: solid 5px black;
+	padding: 15px;
+	}
+h1 a{
+	color:white;
+	
+}
+ 
+h2{
+	text-align:center;
+	 
+}
+h3{
+	text-align: center;
+	
+}
+
+p{
+	text-align:center;
+	margin-left: 125px;
+	margin-right:125px;
+}
+.center{
+	display: block;
+	margin-left: auto;
+	margin-right:auto;
+	width:25%;
+}
+
+
+ul{
+	padding:10px;
+	border: solid 5px blue;
+	text-align: center;
+    list-style: inside;
+	top: 0px;
+    position: relative;	
+}
+li a{
+	color: black;
+	font-weight:bold;
+	}
+ 
